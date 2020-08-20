@@ -18,4 +18,4 @@ This will deploy all vesting contracts.
 
 ## License
 
-[GNU General Public License v3.0 (c) 2018 Fragments, Inc.](./LICENSE)
+[GNU General Public License v3.0 (c) 2020 Fragments, Inc.](./LICENSE)
